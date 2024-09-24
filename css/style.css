@@ -14,6 +14,12 @@
     color: white;
 }
 
+.header2{
+    background-color: #6d937a;
+    color: white;
+    height: 400px;
+}
+
 .im2{
     mix-blend-mode: darken;
     margin-top: -25px;
@@ -118,4 +124,42 @@
 
 .img4{
     margin-top: -150px;
+}
+
+.sec8{
+    background-color: rgb(235, 235, 235);
+    height: 800px;
+}
+
+.sec9 a{
+    text-decoration: none;
+    color: black;
+}
+
+.sec9 p{
+    color: grey;
+}
+
+.div2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(175, 175, 175);
+    display: inline-block;
+}
+
+.div2 i{
+    padding-top: 16px;
+    padding-left: 18px;
+}
+
+.p1{
+    float: right;
+    margin-top: -50px;
+    padding-right: 130px;
+}
+
+.p2{
+    float: right;
+    margin-top: -50px;
 }
