@@ -35,7 +35,7 @@
     background-position: top;
     background-repeat: no-repeat;
     float: right;
-    margin-right: -220px;
+    margin-right: -90px;
 }
 
 .sec4_col1{
@@ -162,4 +162,22 @@
 .p2{
     float: right;
     margin-top: -50px;
+}
+.sec1{
+    background-color: rgb(235, 235, 235);
+    height: 500px;
+}
+
+.p3{
+    font-size: 14px;
+}
+
+.a1{
+    color: black;
+}
+
+.color{
+    background-color: rgb(235, 235, 235);
+    margin-top: -200px;
+    height: 2050px;
 }
