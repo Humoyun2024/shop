@@ -185,3 +185,15 @@
 .color2{
     background-color: rgb(235, 235, 235);
 }
+
+.sp span{
+    background-color: rgb(80, 61, 61);
+    padding: 8px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.sp .col p{
+    font-size: 13px;
+    display: inline-block;
+}
